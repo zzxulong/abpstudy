@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Reflection;
 using System.Text;
 
-namespace Long.AbpStudy.Core.Long.Modularity
+namespace Long.Core.Modularity
 {
     public abstract class AbpModule :
         IAbpModule,

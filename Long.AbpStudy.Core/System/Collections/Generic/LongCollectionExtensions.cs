@@ -1,5 +1,5 @@
 ﻿using JetBrains.Annotations;
-using Long.AbpStudy.Core.Long;
+using Long.Core;
 using System;
 using System.Collections.Generic;
 using System.Linq;

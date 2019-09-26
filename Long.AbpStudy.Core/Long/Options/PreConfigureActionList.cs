@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Long.AbpStudy.Core.Long.Options
+namespace Long.Core.Options
 {
     public class PreConfigureActionList<TOptions> : List<Action<TOptions>>
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Long.AbpStudy.Core.Long.DependencyInjection
+namespace Long.Core.DependencyInjection
 {
     public interface IServiceProviderAccessor
     {

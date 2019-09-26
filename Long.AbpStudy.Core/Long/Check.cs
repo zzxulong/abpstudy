@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Text;
 
-namespace Long.AbpStudy.Core.Long
+namespace Long.Core
 {
     [DebuggerStepThrough]
     public static class Check

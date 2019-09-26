@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Long.AbpStudy.Core.Long
+namespace Long.Core
 {
     /// <summary>
     /// On Application Initialization

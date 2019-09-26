@@ -1,4 +1,4 @@
-﻿using Long.AbpStudy.Core.Long.DependencyInjection;
+﻿using Long.Core.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;

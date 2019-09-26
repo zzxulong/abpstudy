@@ -1,10 +1,10 @@
 ﻿using JetBrains.Annotations;
-using Long.AbpStudy.Core.Long.DependencyInjection;
+using Long.Core.DependencyInjection;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Long.AbpStudy.Core.Long
+namespace Long.Core
 {
 
     public class ApplicationInitializationContext : IServiceProviderAccessor

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Reflection;
 using System.Text;
 
-namespace Long.AbpStudy.Core.Long.Modularity
+namespace Long.Core.Modularity
 {
     /// <summary>
     /// 模块描述符

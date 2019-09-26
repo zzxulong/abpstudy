@@ -1,5 +1,5 @@
-﻿using Long.AbpStudy.Core.Long.DependencyInjection;
-using Long.AbpStudy.Core.Long.Options;
+﻿using Long.Core.DependencyInjection;
+using Long.Core.Options;
 using Long.AbpStudy.Core.Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
 using System;

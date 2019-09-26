@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Long.AbpStudy.Core.Long.Modularity
+namespace Long.Core.Modularity
 {
     /// <summary>
     /// 应用前初始化

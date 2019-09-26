@@ -1,10 +1,10 @@
-﻿using Long.AbpStudy.Core.Long.Modularity;
+﻿using Long.Core.Modularity;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Long.AbpStudy.Core.Long
+namespace Long.Core
 {
     /// <summary>
     /// ABP应用

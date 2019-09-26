@@ -1,5 +1,5 @@
 ﻿using JetBrains.Annotations;
-using Long.AbpStudy.Core.Long;
+using Long.Core;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
